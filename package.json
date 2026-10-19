@@ -1,0 +1,55 @@
+{
+	"name": "material-base-theme",
+	"displayName": "Material Base Theme",
+	"description": "A calm Material-inspired dark theme with a blue-grey palette and consistent UI colors. Works in VS Code, VSCodium and other compatible editors.",
+	"version": "1.0.10",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.99.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"color theme",
+		"dark theme",
+		"dark",
+		"material",
+		"material theme",
+		"material design",
+		"blue grey",
+		"vscodium"
+	],
+	"galleryBanner": {
+		"color": "#263238",
+		"theme": "dark"
+	},
+	"homepage": "https://github.com/ttnbtfy/material-base-theme#readme",
+	"bugs": {
+		"url": "https://github.com/ttnbtfy/material-base-theme/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ttnbtfy/material-base-theme.git"
+	},
+	"publisher": "1dem2nhay",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Base Theme",
+				"uiTheme": "vs-dark",
+				"path": "./theme.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"files": [
+		"images/",
+		"README.md",
+		"CHANGELOG.md",
+		"icon.png",
+		"theme.json",
+		"LICENSE"
+	]
+}
