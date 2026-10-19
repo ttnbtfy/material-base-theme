@@ -1,7 +1,5 @@
 # 🌈 Material Base Theme
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/1dem2nhay.material-base-theme?label=Marketplace&color=80CBC4)](https://marketplace.visualstudio.com/items?itemName=1dem2nhay.material-base-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/1dem2nhay.material-base-theme?color=82AAFF)](https://marketplace.visualstudio.com/items?itemName=1dem2nhay.material-base-theme)
 [![License: MIT](https://img.shields.io/badge/license-MIT-C792EA)](https://github.com/ttnbtfy/material-base-theme/blob/master/LICENSE)
 
 A calm, Material-inspired dark theme with a blue-grey palette.

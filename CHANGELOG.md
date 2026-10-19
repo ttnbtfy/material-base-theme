@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.11] - 2026-10-20
+### Fixed
+- README: removed Marketplace version/installs badges that showed "retired badge"
+- README: all screenshots re-captured larger and easier to read (UI overview + JSX, TSX, HTML, SCSS, PHP, Java)
+
 ## [1.0.10] - 2026-10-20
 ### Changed
 - License is now MIT (free to use, modify and share)

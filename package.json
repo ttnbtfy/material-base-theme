@@ -2,7 +2,7 @@
 	"name": "material-base-theme",
 	"displayName": "Material Base Theme",
 	"description": "A calm Material-inspired dark theme with a blue-grey palette and consistent UI colors. Works in VS Code, VSCodium and other compatible editors.",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.99.0"
